@@ -22,10 +22,18 @@ No projeto, contribuo com o desenvolvimento de interfaces, a documentação e in
 
 **[Experimente a demonstração ↗](https://permaneo-ofc.vercel.app/)** · [Veja o código no GitHub](https://github.com/PermaneoOFC/demo-repository)
 
+### Escritório Permaneo · Permaneo HQ
+
+Escritório virtual com salas interativas e um painel para acompanhar o andamento do Permaneo e organizar tarefas.
+
+[Veja o repositório do escritório no GitHub](https://github.com/PermaneoOFC/PermaneoOFC-permaneo-hq)
+
 ## 🚀 Formação no Instituto PROA
 
 **Instituto PROA** · Formação com prática de desenvolvimento web em equipe.
 
-## Mais um projeto
+## Mais projetos
+
+**[Isso Tem Nome](https://github.com/gabrielrgg/Isso-Tem_Nome)** · Exposição digital sobre racismo, transfobia, misoginia e LGBTfobia, com histórias ilustradas e um quiz interativo.
 
 🎸 **[Violão em React](https://github.com/gabrielrgg/Violao-React)** · Projeto web sobre violão desenvolvido com React e Vite.
